@@ -1,0 +1,14 @@
+.wrapper {
+    width: 100%;
+}
+.content {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+@media screen and (max-width: 444px) {
+    .content {
+        width: 100%;
+    }
+}
